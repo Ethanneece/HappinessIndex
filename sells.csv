@@ -1,0 +1,38 @@
+'Starbucks', 'Cappucino', 5
+'Starbucks', 'Latte', 5 
+'Starbucks', 'Americano', 4
+'Starbucks', 'Macchiato', 6
+'Starbucks', 'Mocca', 5
+'Starbucks', 'Chai Tea', 3
+'Starbucks', 'Espresso', 4
+'Mill Mountain Coffee & Tea', 'Cappucino', 4
+'Mill Mountain Coffee & Tea', 'Latte', 4
+'Mill Mountain Coffee & Tea', 'Espresso', 3
+'Mill Mountain Coffee & Tea', 'Hot Chocolate', 4
+'Mill Mountain Coffee & Tea', 'Americano', 3,
+'Mill Mountain Coffee & Tea', 'Iced Coffee', 2
+'Idego Coffee', 'Espresso', 2
+'Idego Coffee', 'Americano', 2
+'Idego Coffee', 'Cappucino', 3
+'Idego Coffee', 'Hot Chocolate', 3
+'Idego Coffee', 'Marshmallow', 4
+'Idego Coffee', 'Latte', 3
+'Coffeeholics', 'Chai Tea', 4
+'Coffeeholics', 'Smoothie', 5
+'Coffeeholics', 'Hot Chocolate', 3
+'Coffeeholics', 'Iced Cofee', 2
+'Halwa Bakery & Cafe', 'Espresso', 3
+'Halwa Bakery & Cafe', 'Smoothie', 5
+'Halwa Bakery & Cafe', 'Mocca', 4
+'Halwa Bakery & Cafe', 'Latte', 4
+'Halwa Bakery & Cafe', 'Marsmallow', 5
+'Functional Cafe', 'Map Filter Latte', 4
+'Functional Cafe', 'Map Reduce Mocca', 4
+'Functional Cafe', 'Zip Cappucino', 5
+'Functional Cafe', 'GroupBy Americano', 3
+'Functional Cafe', 'SortBy Espresso', 3
+'Alans', 'DFA Latte', 4
+'Alans', 'NFA Mocca', 4
+'Alans', 'PDA Smoothie', 6
+'Alans', 'Turing Machine Chai', 4
+'Alans', 'Undecidable Espresso', 5
